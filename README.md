@@ -4,3 +4,4 @@ The fire-fighting robot is an autonomous device designed to detect and extinguis
 The robot features a water pump, a container for water storage, and an outlet pipe. When the flame sensors detect a fire, they send signals to the Arduino, which processes the input and activates the pump. Water is then drawn from the container and sprayed through the pipe to extinguish the fire.
 
 This system is designed to respond quickly to fire incidents, reducing delays and eliminating the need for manpower. It provides a reliable and efficient way to handle small fires in a controlled environment, ensuring safety and minimizing damage. By automating the fire-fighting process, this robot is a practical solution for scenarios where immediate action is critical.
+
